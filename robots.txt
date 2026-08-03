@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drsupakorn.github.io/the-best-of-buddhism/sitemap.xml

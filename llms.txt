@@ -1,0 +1,24 @@
+# The Best of Buddhism
+
+Author: Dr. Supakorn Buasai
+Language: Thai, English
+
+Description:
+The Best of Buddhism is a curated digital collection explaining Buddhist suttas, Buddhist philosophy, Buddhist history, and the Pali Canon for contemporary readers.
+
+Collections
+
+- Mahaparinibbana Sutta
+  https://drsupakorn.github.io/the-best-of-buddhism/maha-parinibbana-sutta/
+
+Homepage
+
+https://drsupakorn.github.io/the-best-of-buddhism/
+
+Master Portal
+
+https://drsupakorn.github.io/
+
+License
+
+Copyright © 2026 Dr. Supakorn Buasai.
